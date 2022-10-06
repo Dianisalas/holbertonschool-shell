@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod --reference=vincent guillaume hello
+chmod --reference=guillaume vincent hello
+
